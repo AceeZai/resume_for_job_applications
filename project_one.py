@@ -1,2 +1,2 @@
 # project_one
-print ("Hello, UNIVERSE!!")
+print ("Hello, universe.")
